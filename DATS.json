@@ -21,20 +21,19 @@
   "types": [
     {
       "information": {
+        "identifier": {
+          "identifier": "113091000",
+          "identifierSource":"http://purl.bioontology.org/ontology/SNOMEDCT/113091000"
+        },
         "value": "MRI"
       }
     },
     {
       "information": {
-        "value": "Basic Demographics"
+        "value": "basic demographics"
       }
     },
-    {
-      "information": {
-        "value": "BIDS"
-      }
-    }
-  ],
+  ,
   "version": "1.1",
   "availability": "available",
   "privacy": "private",
