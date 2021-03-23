@@ -33,7 +33,7 @@
         "value": "basic demographics"
       }
     },
-  ,
+  ],
   "version": "1.1",
   "availability": "available",
   "privacy": "private",
@@ -115,11 +115,19 @@
       "value": "Movies"
     },
     {
-      "value": "Structural MRI"
+      "value": "structural MRI"
     },
     {
-      "value": "Functional MRI"
-    }
+			"information": {
+          "identifier": {
+              "identifier": "ilx_0506130",
+              "identifierSource":"http://uri.interlex.org/base/ilx_0506130"
+          },
+				{
+					"value": "fMRI"
+				}
+			}
+		}
   ],
   "extraProperties": [
     {
