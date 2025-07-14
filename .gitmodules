@@ -1,15 +1,23 @@
 [submodule "anat"]
 	path = anat
 	url = git@github.com:courtois-neuromod/anat.git
+	datalad-id = b376774c-889d-11ea-b60e-3ea8d101da1a
+	branch = .
 [submodule "movie10"]
 	path = movie10
 	url = git@github.com:courtois-neuromod/movie10.git
+	datalad-id = 74df9898-c9bb-11e9-85f3-3ea8d101da1a
+	branch = .
 [submodule "hcptrt"]
 	path = hcptrt
 	url = git@github.com:courtois-neuromod/hcptrt.git
+	datalad-id = 75ea31e2-f730-11e9-aec7-3ea8d101da1a
+	branch = .
 [submodule "friends"]
 	path = friends
 	url = git@github.com:courtois-neuromod/friends.git
+	datalad-id = 66738676-1d20-11ea-9a9e-3ea8d101da1a
+	branch = .
 [submodule "docs"]
 	path = docs
 	url = git@github.com:courtois-neuromod/cneuromod_docs.git
@@ -20,6 +28,7 @@
 	path = shinobi
 	url = git@github.com:courtois-neuromod/shinobi.git
 	datalad-id = 3ee55e10-f8f6-11ea-83ca-3ea8d101da1a
+	branch = .
 [submodule "harrypotter"]
 	path = harrypotter
 	url = git@github.com:courtois-neuromod/harrypotter.git
@@ -34,7 +43,7 @@
 	datalad-id = df96e39c-55e0-4862-a5c4-66145afcff6a
 [submodule "mario"]
 	path = mario
-	url = .git@github.com:courtois-neuromod/mario.git
+	url = git@github.com:courtois-neuromod/mario.git
 	datalad-id = 195953d1-63c4-491a-adb1-c2e9ea1a2746
 [submodule "floc"]
 	path = floc
@@ -44,7 +53,8 @@
 	path = gamepad
 	url = git@github.com:courtois-neuromod/gamepad.git
 	datalad-id = afdbdee8-50ec-4cd4-9baa-354a946585c5
-[submodule "shinobi_behavioral"]
+[submodule "shinobi_training"]
 	path = shinobi_training
 	url = git@github.com:courtois-neuromod/shinobi_training.git
 	datalad-id = b579da63-22ef-42da-8793-a48e3e78e204
+	datalad-url = git@github.com:courtois-neuromod/shinobi_training.git
