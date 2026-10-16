@@ -81,22 +81,27 @@
   ],
   "types": [
     {
-        "information": {
-            "value": "fMRI",
-            "valueIRI": "http://uri.interlex.org/ilx_0506130"
-        },
-        "information": {
-            "value": "MRI",
-            "valueIRI": "http://uri.interlex.org/ilx_0779748"
-        },
-        "information": {
-            "value": "DTI",
-            "valueIRI": "http://uri.interlex.org/ilx_0103240"
-        },
-        {
-        "information": {
-            "value": "Basic demographic",
-            "valueIRI": "http://uri.interlex.org/ilx_0103016"
+      "information": {
+        "value": "fMRI",
+        "valueIRI": "http://uri.interlex.org/ilx_0506130"
+      }
+    },
+    {
+      "information": {
+        "value": "MRI",
+        "valueIRI": "http://uri.interlex.org/ilx_0779748"
+      }
+    },
+    {
+      "information": {
+        "value": "DTI",
+        "valueIRI": "http://uri.interlex.org/ilx_0103240"
+      }
+    },
+    {
+      "information": {
+        "value": "Basic demographic",
+        "valueIRI": "http://uri.interlex.org/ilx_0103016"
       }
     }
   ],
@@ -262,7 +267,7 @@
       "category": "logo",
       "values": [
         {
-          "value": "https://www.cneuromod.ca/images/cneuromod_logo.svg"
+          "value": "logo.png"
         }
       ]
     },
